@@ -1,6 +1,6 @@
 # string_capital\_letter\_counter:
 
-###Java project containing a Java class CapitalLetterCounter.java, which counts uppercase letters in strings entered by the user.
+### Java project containing a Java class CapitalLetterCounter.java, which counts uppercase letters in strings entered by the user.
 
 ## History:
 
@@ -20,7 +20,7 @@
 
 `java CapitalLetterCounter`
 
-###(Use backslashes if you're running Windows.)
+### (Use backslashes if you're running Windows.)
 
 
 ## Output
@@ -31,4 +31,4 @@
 
 ### Please feel free to contact me, especially if you encounter bugs.
 
-###Jonathan Levi
+### Jonathan Levi
