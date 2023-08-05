@@ -26,6 +26,3 @@
 ###Please feel free to contact me, especially if you encounter bugs.
 
 ###Jonathan Levi
-
-
-
